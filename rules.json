@@ -1,0 +1,15 @@
+{
+  "rules": [
+    { "merchant_pattern": "*UBER *EATS*", "category": "dining", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*RAPPI*", "category": "dining", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*UBER*", "category": "transport", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*NETFLIX*", "category": "subscriptions", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*SPOTIFY*", "category": "subscriptions", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*DISNEY*PLUS*", "category": "subscriptions", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*APPLE.COM*", "category": "subscriptions", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*GOOGLE*", "category": "subscriptions", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*AMAZON*", "category": "shopping", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*MERCADO*LIBRE*", "category": "shopping", "notes": "seed", "source": "manual", "created_at": "", "last_used": null },
+    { "merchant_pattern": "*AMEX*INTEREST*", "category": "fees", "notes": "seed", "source": "manual", "created_at": "", "last_used": null }
+  ]
+}

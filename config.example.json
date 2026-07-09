@@ -1,0 +1,28 @@
+{
+  "sheet": {
+    "name": "Finance Ledger",
+    "id": ""
+  },
+  "paths": {
+    "statements_folder": ""
+  },
+  "categories": [
+    "groceries",
+    "dining",
+    "transport",
+    "utilities",
+    "subscriptions",
+    "health",
+    "personal_care",
+    "shopping",
+    "entertainment",
+    "travel",
+    "home",
+    "fees",
+    "other"
+  ],
+  "thresholds": {
+    "fuzzy_match_max_distance": 3,
+    "reconcile_tolerance": 0.50
+  }
+}

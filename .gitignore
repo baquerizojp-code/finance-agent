@@ -1,0 +1,24 @@
+# Per-user Google credentials (created on first auth) — NEVER commit
+token.json
+
+# Per-user config (holds the user's own sheet id + folder path)
+config.json
+
+# Runtime state
+processed.json
+predictions/
+*.log
+
+# Statement PDFs — private financial data, never commit
+*.pdf
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Scratch
+/tmp_*.json
+
+# macOS
+.DS_Store
